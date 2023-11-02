@@ -302,3 +302,8 @@ const app = new App();
 
 console.log('Reset Everything: app.reset()');
 
+// const img = new Image();
+// img.src = './logo.png';
+// img.addEventListener('load', function () {
+//     document.querySelector('.logoContainer').insertAdjacentHTML('afterbegin', `<img class="logo" src="${img.src}" alt="Logo" />`)
+// })
